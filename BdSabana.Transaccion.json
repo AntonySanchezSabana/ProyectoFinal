@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "tipopeid": 3,
+  "monto": 25000,
+  "fecha": {
+    "$date": "2024-10-07T22:13:36.911Z"
+  },
+  "numeroCuenta": "857794526106",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+},
+{
+  "_id": 2,
+  "tipopeid": 3,
+  "monto": 15000,
+  "fecha": {
+    "$date": "2024-10-07T22:13:36.911Z"
+  },
+  "numeroCuenta": "8899587474",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+},
+{
+  "_id": 3,
+  "tipopeid": 2,
+  "monto": 5000,
+  "fecha": {
+    "$date": "2024-10-07T22:13:36.911Z"
+  },
+  "numeroCuenta": "856294526106",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+},
+{
+  "_id": 20,
+  "tipopeid": 1,
+  "monto": 75,
+  "fecha": {
+    "$date": "2024-10-07T22:56:57.738Z"
+  },
+  "numeroCuenta": "857496351245",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+},
+{
+  "_id": 21,
+  "tipopeid": 1,
+  "monto": 80,
+  "fecha": {
+    "$date": "2024-10-07T22:56:57.738Z"
+  },
+  "numeroCuenta": "857495551245",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+},
+{
+  "_id": 22,
+  "tipopeid": 3,
+  "monto": 450,
+  "fecha": {
+    "$date": "2024-10-07T22:56:57.738Z"
+  },
+  "numeroCuenta": "857411151245",
+  "_class": "com.api.crud.models.MongoDB.TransaccionModel"
+}]
